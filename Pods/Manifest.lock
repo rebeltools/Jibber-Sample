@@ -1,10 +1,10 @@
 PODS:
-  - Jibber-Framework (1.1)
+  - Jibber-Framework (1.2)
 
 DEPENDENCIES:
-  - Jibber-Framework
+  - Jibber-Framework (~> 1.2)
 
 SPEC CHECKSUMS:
-  Jibber-Framework: b2d402f80c8da9ddb469f1f10123434d9b35e1a4
+  Jibber-Framework: 79424410bdc06413accba6d32a0d2c41b162580f
 
 COCOAPODS: 0.36.0

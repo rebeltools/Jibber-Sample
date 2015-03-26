@@ -1,1 +1,1 @@
-pod "Jibber-Framework"
+pod "Jibber-Framework", "~> 1.2"
